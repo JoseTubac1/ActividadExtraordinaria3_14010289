@@ -1,0 +1,7 @@
+Esta unidad fue muy interesante porque aprendimos sobre varios temas importantes de la informática y la programación. Primero vimos el "Sistema Binario" y cómo funciona para guardar y mostrar información en las computadoras. Luego estudiamos la "Lógica" y cómo nos ayuda a pensar y resolver problemas de forma coherente y eficaz. Después aprendimos sobre los "Algoritmos" y cómo son los pasos que seguimos para crear programas y soluciones. También vimos la "Programación" y los conceptos básicos para escribir código y hacer software. Por último, conocimos los "Editores de Texto y Entornos de Desarrollo" que son las herramientas que usamos para escribir, modificar y ejecutar nuestro código. Fue una unidad muy completa y divertida.
+
+Tema Importante:
+- Considero que compreder la importancia y el caracter esencial que tienen los algoritmos en la vida del programador.
+
+Tema Problematico:
+- Saber que no todos los lenguajes son capacedes de hacer todo lo que uno desearia sino que cada uno tiene sus limitantes, especialidades y mejores usos.

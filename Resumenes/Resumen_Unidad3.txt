@@ -1,0 +1,11 @@
+Esta unidad te introdujo al mundo del manejo de versiones, una habilidad esencial para cualquier desarrollador de software. Aprendiste qué es un controlador de versiones y por qué es importante para mantener el orden y la coherencia en tus proyectos.
+
+También conociste GIT, uno de los sistemas de control de versiones más populares y poderosos. Viste cómo GIT te permite crear, modificar y fusionar ramas de código, así como trabajar en equipo de forma eficiente y segura.
+
+Además, descubriste GITHUB, una plataforma online que se integra con GIT y te ofrece muchas ventajas para alojar y compartir tus proyectos. A través de GITHUB, puedes colaborar con otros desarrolladores, contribuir a proyectos de código abierto y mostrar tu trabajo al mundo.
+
+Para poner en práctica lo que aprendiste, te enseñamos las instrucciones básicas de GIT que necesitas para empezar a usarlo. También te dimos algunos ejemplos de uso de GITHUB en situaciones reales, para que veas cómo se aplica esta herramienta en el ámbito profesional y comunitario del desarrollo de software.
+
+Tema Importante / Complicado:
+
+- Los Controladores de Version son esenciales en la vida del programador y estos a su vez dan problema en las primeras interacciones que se tienen con estos debido a las ramificaciones que puede presentar el proyecto y las representaciones mentales que debe de genera y tener en cuenta el desarrollador al momento de estar trabajando colaborativamente. 

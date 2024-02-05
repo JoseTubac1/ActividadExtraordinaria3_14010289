@@ -1,0 +1,7 @@
+En esta unidad, aprendimos lo básico de la programación, con conceptos clave para los que se inician en este mundo. Empezamos con "Conceptos Básicos para Iniciar a Programar", donde vimos los pasos fundamentales para crear un código. Después, vimos los "Tipos de Datos y Operadores", donde aprendimos las diferentes clases de información que podemos usar en un programa, y cómo podemos operar con ellas.También estudiamos las "Estructuras de Control Condicionales", que nos permiten hacer que los programas tomen decisiones según ciertas condiciones. Y también las "Estructuras de Control de Bucles", que nos permiten repetir partes del código de forma controlada.Además de la teoría, tuvimos cuatro videos prácticos para reforzar lo aprendido: "Conceptos de Programación", "Tipos de Datos", y dos partes sobre las "Estructuras de Control de Flujo". Estos videos nos mostraron ejemplos visuales y casos prácticos para entender mejor los conceptos teóricos, y así facilitarnos el aprendizaje de la programación.
+
+Tema Importante:
+- Las Estructuras de Control de Flujo, porque en esencia cualquier desarrollo de una programa de computacion se define como la eleccion y la continuidad del programa que dicha seleccion genere
+
+Tema Complicado:
+- Plasmar las esctructuras de control de flujo necesarias en las actividades que se adjuntaron en clase.La creacion de estas me dio problemas.
